@@ -1,4 +1,4 @@
 # Freshworks-Assessment
  CRD file-based key-value data store
   
- The data store must be exposed as a library to clients .
+ The data store is exposed as a library to clients .
